@@ -1,0 +1,6 @@
+com/example/camera/BuildConfig.java
+ com.example.camera.BuildConfig
+com/example/camera/MainActivity.java
+ com.example.camera.MainActivity
+ com.example.camera.MainActivity$1
+ com.example.camera.MainActivity$2
